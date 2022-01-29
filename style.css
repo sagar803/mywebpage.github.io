@@ -92,8 +92,7 @@ ul li a {
 .blank {
   height: 500px;
   width: 100%;
-  color: whitesmoke;
-  background-color: white;
+  background-color: rgb(27, 27, 27) ;
 }
 .contact-form {
   height: 350px;
